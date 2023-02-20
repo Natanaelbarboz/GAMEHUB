@@ -1,0 +1,15 @@
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\bin\Debug\net6.0\JOGOSHUB.exe
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\bin\Debug\net6.0\JOGOSHUB.deps.json
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\bin\Debug\net6.0\JOGOSHUB.runtimeconfig.json
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\bin\Debug\net6.0\JOGOSHUB.dll
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\bin\Debug\net6.0\JOGOSHUB.pdb
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\JOGOSHUB.csproj.AssemblyReference.cache
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\JOGOSHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\JOGOSHUB.AssemblyInfoInputs.cache
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\JOGOSHUB.AssemblyInfo.cs
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\JOGOSHUB.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\JOGOSHUB.dll
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\refint\JOGOSHUB.dll
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\JOGOSHUB.pdb
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\JOGOSHUB.genruntimeconfig.cache
+C:\Users\Natanael\Desktop\HUB\JOGOSHUB\obj\Debug\net6.0\ref\JOGOSHUB.dll
