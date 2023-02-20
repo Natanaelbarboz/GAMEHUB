@@ -4,7 +4,7 @@
 
 <h2>Descrição do projeto:📋</h2>
 
-<h3>Trata-se de um hub de jogos.<br></h31>
+<h3>Trata-se de um hub de jogos.</h3>
 <p2>Atualmente conta com dois jogos(novos jogos serão adcionados no futuro).</p2><br>
 <p2>1º - Um jogo Da Velha para dois jogadores.</p2><br>
 <p2>2º - Um jogo de Xadez para dois jogadores.</p2><br>
